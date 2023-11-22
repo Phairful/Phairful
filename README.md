@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phairful
-UX/UI Designer & Full Stack Developer
+- UX/UI Designer & Full Stack Developer
 - 👀 I’m interested in Product Design
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on A
